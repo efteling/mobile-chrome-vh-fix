@@ -1,0 +1,23 @@
+{
+  "name": "mobile-chrome-vh-fix",
+  "version": "1.0.1",
+  "description": "[https://stanko.github.io/mobile-chrome-vh-fix/](https://stanko.github.io/mobile-chrome-vh-fix/)",
+  "main": "mobile-chrome-vh-fix.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://efteling@github.com/efteling/mobile-chrome-vh-fix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efteling/mobile-chrome-vh-fix/issues"
+  },
+  "homepage": "https://github.com/efteling/mobile-chrome-vh-fix#readme"
+}
